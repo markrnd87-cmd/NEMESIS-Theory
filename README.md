@@ -1,4 +1,5 @@
 # NEMESIS Theory 
+![Uploading meta ninja.png…]()
 **Theoretical Physics, Hypercomplex Geometries, and Cosmological Frameworks**
 *Maintained by NEMESIS 3D Studio*
 
