@@ -1,5 +1,6 @@
 # NEMESIS Theory 
-![Uploading meta ninja.png…]()
+<img width="1920" height="1080" alt="meta ninja" src="https://github.com/user-attachments/assets/51a74551-559c-41d3-b688-e1206abac0d0" />
+
 **Theoretical Physics, Hypercomplex Geometries, and Cosmological Frameworks**
 *Maintained by NEMESIS 3D Studio*
 
